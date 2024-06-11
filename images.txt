@@ -1,4 +1,18 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+zhayujie/chatgpt-on-wechat
+teslamate/teslamate:latest
+postgres:15
+teslamate/grafana:latest
+eclipse-mosquitto:2
+rustdesk/rustdesk-server-s6:latest
+whyour/qinglong:debian
+a76yyyy/qiandao:lite-latest
+redis:alpine
+frooodle/s-pdf:latest
+corentinth/it-tools:latest
+amir20/dozzle:latest
+zabbix/zabbix-java-gateway:latest
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-server-mysql:latest
+mysql:8.0
+portainer/portainer-ce:latest
