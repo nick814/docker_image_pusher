@@ -6,6 +6,7 @@ teslamate/grafana:latest
 eclipse-mosquitto:2
 rustdesk/rustdesk-server-s6:latest
 whyour/qinglong:debian
+whyour/qinglong:2.11.3
 a76yyyy/qiandao:lite-latest
 redis:alpine
 frooodle/s-pdf:latest
@@ -18,5 +19,6 @@ mysql:8.0
 portainer/portainer-ce:latest
 elecv2/elecv2p
 snowdreamtech/frpc
+snowdreamtech/frpc:0.49.0
 ghcr.io/umami-software/umami:postgresql-latest
 nolanhzy/pro:latest
