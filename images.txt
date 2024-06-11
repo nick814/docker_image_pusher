@@ -16,3 +16,7 @@ zabbix/zabbix-web-nginx-mysql:latest
 zabbix/zabbix-server-mysql:latest
 mysql:8.0
 portainer/portainer-ce:latest
+elecv2/elecv2p
+snowdreamtech/frpc
+ghcr.io/umami-software/umami:postgresql-latest
+nolanhzy/pro:latest
