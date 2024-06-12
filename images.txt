@@ -14,8 +14,10 @@ corentinth/it-tools:latest
 amir20/dozzle:latest
 zabbix/zabbix-java-gateway:latest
 zabbix/zabbix-web-nginx-mysql:latest
-zabbix/zabbix-server-mysql:alpine-7.0-latest
 zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+zabbix/zabbix-server-mysql:alpine-7.0-latest
 mysql:8.0
 portainer/portainer-ce:latest
 elecv2/elecv2p
