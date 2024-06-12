@@ -23,4 +23,5 @@ snowdreamtech/frpc
 snowdreamtech/frpc:0.49.0
 ghcr.io/umami-software/umami:postgresql-latest
 nolanhzy/pro:latest
-vbkunin/itop
+vbkunin/itop:latest
+vbkunin/itop:latest-base
