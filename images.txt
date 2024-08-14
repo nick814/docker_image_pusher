@@ -25,3 +25,4 @@ ghcr.io/umami-software/umami:postgresql-latest
 nolanhzy/pro:latest
 vbkunin/itop:latest
 vbkunin/itop:latest-base
+anmour/bncr
