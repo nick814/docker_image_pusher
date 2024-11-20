@@ -2,6 +2,7 @@ nginx
 zhayujie/chatgpt-on-wechat
 teslamate/teslamate:latest
 postgres:15
+postgres:17
 teslamate/grafana:latest
 eclipse-mosquitto:2
 rustdesk/rustdesk-server-s6:latest
